@@ -1,0 +1,4 @@
+Circuit: * C:\Users\Lucas\Documents\Actualmente Usando\Laboratorio de Electrónica\labelec-tp4\Simulación\Draft1.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu1 n003 n001 15v 0 vo lm833

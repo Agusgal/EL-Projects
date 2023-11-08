@@ -1,0 +1,32 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Caracterizaci\'on de componentes pasivos}{3}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Medici\'on del capacitor}{3}{subsection.1.1}% 
+\contentsline {subsubsection}{\numberline {1.1.1}Resultados}{3}{subsubsection.1.1.1}% 
+\contentsline {subsubsection}{\numberline {1.1.2}Modelizaci\'on del comportamiento observado}{4}{subsubsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.2}Medici\'on del inductor}{5}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}Resultados}{5}{subsubsection.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1.2.2}Modelizaci\'on del comportamiento observado}{7}{subsubsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.3}Conclusiones}{8}{subsection.1.3}% 
+\contentsline {section}{\numberline {2}Circuito Pasabajos}{9}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}An\'alisis te\'orico}{9}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}Funci\'on transferencia}{9}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {2.1.2}Valores caracter\'isticos de transitorio}{11}{subsubsection.2.1.2}% 
+\contentsline {subsubsection}{\numberline {2.1.3}An\'alisis de casos}{11}{subsubsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.2}Resultados}{12}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Mediciones del transitorio}{12}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Medici\'on de respuesta en frecuencia}{14}{subsubsection.2.2.2}% 
+\contentsline {section}{\numberline {3}Circuitos pasaaltos, pasabanda y rechazabanda}{15}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Circuito Pasabanda}{15}{subsection.3.1}% 
+\contentsline {subsubsection}{\numberline {3.1.1}An\'alisis te\'orico}{15}{subsubsection.3.1.1}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Resultados}{16}{subsubsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.2}Circuito Pasaaltos}{18}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}An\'alisis te\'orico}{18}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Resultados}{19}{subsubsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.3}Circuito Rechazabanda}{21}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}An\'alisis te\'orico}{21}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Resultados}{22}{subsubsection.3.3.2}% 
+\contentsline {section}{\numberline {4}Medici\'on de factor de calidad}{24}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Filtro Pasabajos}{24}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Filtro Pasaaltos}{24}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Filtro Pasabanda}{24}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}Filtro Rechazabanda}{24}{subsection.4.4}% 

@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Lucas\Documents\Actualmente Usando\Laboratorio de Electrónica\labelec-tp2\Simulaciones\Rechazabanda.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Sep 13 03:21:02 2019
+Total elapsed time: 0.136 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2258
+traniter = 2240
+tranpoints = 1110
+accept = 1095
+rejected = 15
+matrix size = 45
+fillins = 21
+solver = Normal
+Matrix Compiler1: 2.46 KB object code size  1.0/0.5/[0.2]
+Matrix Compiler2: 3.72 KB object code size  0.5/0.5/[0.5]
+

@@ -1,0 +1,7 @@
+pyvisa
+xlwt
+numpy
+PyQt5
+matplotlib
+openpyxl
+pandas

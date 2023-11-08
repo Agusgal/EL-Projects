@@ -1,0 +1,27 @@
+\babel@toc {spanish}{}
+\contentsline {section}{Introducci\'on}{3}{section*.2}% 
+\contentsline {section}{1. Comparaci\'on entre m\'etodos de medici\'on de puentes}{4}{section*.3}% 
+\contentsline {subsection}{Consideraciones generales}{4}{section*.4}% 
+\contentsline {subsection}{Osciloscopio}{4}{section*.5}% 
+\contentsline {subsection}{Mult\'imetro de precisi\'on}{5}{section*.6}% 
+\contentsline {subsection}{Amplificador de instrumentaci\'on}{5}{section*.7}% 
+\contentsline {section}{2. Puente de Wien - Medici\'on de frecuencias}{6}{section*.8}% 
+\contentsline {subsection}{Diseno y elecci\'on de componentes}{6}{section*.9}% 
+\contentsline {subsubsection}{Sensibilidades}{6}{section*.10}% 
+\contentsline {subsection}{Mediciones}{8}{section*.11}% 
+\contentsline {subsection}{Conclusiones}{8}{section*.12}% 
+\contentsline {section}{3. Puente de medici\'on de capacitores}{9}{section*.13}% 
+\contentsline {subsection}{An\'alisis te\'orico}{9}{section*.14}% 
+\contentsline {subsubsection}{Condiciones de dise\~no}{9}{section*.15}% 
+\contentsline {subsubsection}{Ecuaciones del puente}{9}{section*.16}% 
+\contentsline {subsubsection}{Sensibilidades del puente}{10}{section*.17}% 
+\contentsline {paragraph}{Sensibilidad respecto de la variable $Z_3$}{10}{section*.18}% 
+\contentsline {paragraph}{Sensibilidad respecto de la variable $Z_1$}{10}{section*.19}% 
+\contentsline {subsubsection}{Dimensionamiento del puente}{10}{section*.20}% 
+\contentsline {subsection}{Resultados}{13}{section*.21}% 
+\contentsline {subsubsection}{Componentes patr\'on}{13}{section*.22}% 
+\contentsline {subsubsection}{Mediciones del puente}{13}{section*.23}% 
+\contentsline {subsubsection}{Mediciones del analizador de impedancias}{13}{section*.24}% 
+\contentsline {subsection}{Manual de usuario}{13}{section*.25}% 
+\contentsline {subsection}{Precisi\'on del puente}{14}{section*.26}% 
+\contentsline {subsection}{Conclusi\'on}{15}{section*.27}% 

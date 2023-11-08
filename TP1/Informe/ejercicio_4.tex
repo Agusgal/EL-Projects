@@ -1,0 +1,116 @@
+\section{Respuesta en frecuencia del osciloscopio}
+
+\subsection{Informaci\'on previa}
+
+El objetivo de esta secci\'on es obtener un gr\'afico que caracterice la respuesta en frecuencia de un osciloscopio cuando se activan los filtros de \textit{AC Coupling} y \textit{BW Limit}. Es importante para esto comprender que es cada uno de ellos.
+
+\subsubsection{AC Coupling}
+
+Seg\'un la informaci\'on obtenida del manual de usuario del osciloscopio utilizado (Agilent DSO6014)\ , cuando se activa  este modo de acoplamiento de la entrada, se inyecta la se\~nal en un filtro pasaaltos con una frecuencia de corte de 3.5Hz. 
+
+Este filtro tiene el fin principal de bloquear la componente de continua que pueda tener la se\~nal medida. Sin embargo, debido al filtro, se pierde ancho de banda en ese rango de frecuencias.
+
+\subsubsection{BW Limit}
+Nuevamente, se obtuvo del manual de usuario que, cuando se activa este modo de operaci\'on se inyecta la entrada a un filtro pasabajos con una frecuencia de corte del orden de los 20MHz.
+
+En este caso, el filtro es de suma utilidad para atenuar el ruido de alta frecuencia (mayor a la frecuencia de corte), que, en la mayor parte de las mediciones, no es de inter\'es.
+
+\subsection{Mediciones y resultados}
+\subsubsection{M\'etodo de medici\'on}
+Para realizar la medici\'on se conectan 2 canales del osciloscopio a la salida de un generador de se\~nales. Una de ellas con los filtros \textit{AC Coupling} y \textit{BW Limit} activados y la otra con ambos desactivados, es decir sin limitar el ancho de banda que ofrece el osciloscopio por defecto.
+
+Esta conexi\'on permite independizar la medici\'on de la impedancia de las puntas y del generador, puesto que para este caso solamente es de inter\'es la relaci\'on entre la entrada a la salida. Se asume en este caso que la impedancia de ambas puntas es igual.
+
+Finalmente se procede a hacer un barrido en frecuencia con el generador analizando las diferencias en modulo y fase de las se\~nales medidas en el osciloscopio.
+
+\newpage
+
+\subsubsection{Resultados obtenidos}
+Se muestra en la Tabla \ref{tab:Tabla} el resultado de las mediciones realizadas y en la Figura 
+\ref{fig:Bode} se puede ver el gr\'afico realizado a partir de ellas
+\begin{table}[H]
+	\centering
+	\resizebox{0.3\textwidth}{!}{%
+		\begin{tabular}{|c c c|}
+		\hline
+		frec(Hz) & Transference(dB) & Phase(\degree) \\ \hline
+		0.1 & -11 & 75 \\ 
+		0.15 & -7.6 & 67 \\
+		0.2 & -5.7 & 60 \\ 
+		0.2 & -5.7 & 60.5 \\
+		0.25 & -4.4 & 54.5 \\
+		0.33 & -3 & 45 \\ 
+		0.35 & -2.8 & 44 \\
+		0.4 & -2.3 & 41 \\
+		0.5 & -1.6 & 35 \\
+		0.7 & -1 & 26 \\ 
+		1 & -0.5 & 20 \\ 
+		1.5 & -0.219 & 15.2 \\
+		2 & -0.2 & 12 \\ 
+		2.5 & -0.1 & 10 \\
+		3 & -0.1 & 7 \\ 
+		3.3 & -0.1 & 7 \\
+		3.5 & -0.1 & 8 \\
+		3.7 & -0.1 & 8 \\
+		4 & -0.1 & 8 \\
+		7 & 0 & 4.9 \\ 
+		8 & -0.017 & 4 \\
+		10 & -0.01 & 4.6 \\
+		20 & -0.008 & 3.55 \\
+		30 & -0.006 & 2.61 \\
+		60 & -0.008 & 2.37 \\
+		80 & -0.35 & 2.44 \\ 
+		100 & -0.007 & 2.55 \\
+		300 & -0.003 & 1.9 \\ 
+		400 & 0 & 2.56 \\ 
+		800 & 0 & 2.43 \\ 
+		1000 & 0 & 2.5 \\ 
+		10000 & 0.1 & 1.3 \\
+		100000 & 0.097 & -0.3 \\ 
+		200000 & 0.1 & 0.92 \\ 
+		500000 & 0.12 & 0.11 \\
+		1000000 & 0.1 & -1.38 \\
+		1500000 & 0.1 & -3.1 \\ 
+		2000000 & 0.1 & -5 \\ 
+		3000000 & 0.0035 & -8.78 \\
+		4000000 & -0.0082 & -12 \\ 
+		5000000 & -0.1 & -15 \\ 
+		7000000 & -0.4 & -21.8 \\
+		9000000 & -0.7 & -29 \\ 
+		9000000 & -0.7 & -29 \\ 
+		9500000 & -0.8 & -30.7 \\
+		10000000 & -0.9 & -32.75 \\
+		12000000 & -1.29 & -38.9 \\ 
+		15000000 & -1.9 & -45.36 \\ 
+		16000000 & -2.1 & -47.9 \\ 
+		18000000 & -2.6 & -52 \\ 
+		19000000 & -2.8 & -55.15 \\
+		20000000 & -3.2 & -58.3 \\ 
+		\end{tabular}%
+	}
+	\caption{Valores obtenidos de las mediciones}
+
+	\label{tab:Tabla}
+
+	\end{table}
+	\begin{figure}[H]
+		\begin{center}
+			\includegraphics[width=0.9\textwidth]{../Desarrollo/Bode_ej4.png}
+		\end{center}
+		\caption{Diagrama de Bode realizado a partir de las mediciones realizadas}
+		\label{fig:Bode}
+	\end{figure}
+
+\subsection{An\'alisis de resultados}
+
+	A partir de los resultados obtenidos se pueden obtener varias conclusiones que vale la pena resaltar
+	\begin{itemize}
+		\item Si bien el fabricante indica que el filtro de \textit{AC Coupling} debe tener una frecuencia de corte de 3.5Hz, se observa en los resultados que esta se encuentra una decada antes, en 0,33Hz. Esto fue comprobado 2 osciloscopios distintos y se obtuvieron resultados similares. Esta diferencia se puede adjudicar a un error en el manual, aunque es muy poco probable. Tambi\'en podr\'ia ser un error introducido por las puntas del osciloscopio al trabajar en tan baja frecuencia.
+		\item Otra caracter\'istica que se puede ver con mas detalle en la Figura 
+		%TODO:%\ref{ploteo de plot tool re cheto}
+		es que en bajas frecuencias y con \textit{AC Coupling} activado, el osciloscopio se comporta como un filtro pasaaltos de primer orden con la frecuencia de corte indicada.
+		\item El osciloscopio en modo \textit{BW Limit}, si bien tiene una frecuencia de corte que coincide con la indicada por el fabricante, en el orden de los 20MHz, no se comporta como un filtro de primer orden. Esto se puede observar el la Figura
+		 %TODO:%\ref{ploteo de plot tool re cheto}
+		 .Esto se corresponde con la teor\'ia vista durante las clases.
+		 \item Por \'ultimo, es importante se\~nalar que el rango recomendado de utilizaci\'on de este osciloscopio, con estos dos filtros activados se encuentra entre 7Hz y 5MHz. Pasados esos l\'imites la atenuaci\'on observada en la se\~nal se vuelve considerable con leves cambios en la frecuencia.
+	\end{itemize}

@@ -1,0 +1,20 @@
+* C:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\LABO\TP2\labelec-tp2\Simulaciones\EJ1\Draft1.asc
+XU1 N002 N001 N003 opamp Aol=100K GBW=10Meg
+XU2 N009 N010 N011 opamp Aol=100K GBW=10Meg
+XU3 N004 N008 N005 opamp Aol=100K GBW=10Meg
+XU4 N012 0 N006 opamp Aol=100K GBW=10Meg
+R1 N003 N002 9k
+R2 N002 N007 1k
+R3 N007 N009 1k
+R4 N009 N011 9k
+R5 N004 N003 1k
+R6 N008 N011 10k
+R7 N012 N008 10k
+R8 N005 N004 10k
+R9 N007 N006 8k
+V1 N001 0 SINE(0 100M 1K) AC 100m
+V2 N010 0 SINE(0 90m 1k) AC 90m
+;tran 0 100m 0 1u startup
+.ac dec 1000 1 1meg
+.backanno
+.end

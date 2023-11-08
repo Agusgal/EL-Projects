@@ -1,0 +1,36 @@
+% Incluyendo el preambulo de LaTeX para configurar los paquetes que se vayan usando
+\input{./preamble.tex}
+
+% Abrir y crear el documento, llamar a cada uno de los ejercicios
+\begin{document}
+
+    % Crear y configurar el titulo/caratula del informe
+    \title{
+        \normalfont \normalsize \textsc{Instituto Tecnol\'ogico de Buenos Aires} \\ [25pt]
+        \huge Trabajo Pr\'actico Nº 5 \\
+        \author{
+            \\Grupo 1:\\\\Galdeman, Agust\'in Ignacio\\Gaytan, Joaqu\'in Oscar\\Kammann, Lucas Agust\'in\\Maselli, Carlos Javier\\ \\ \\ \\
+            Profesores: \\\\ Cossutta, Pablo Mart\'in\\Weill, Mar\'ia Alejandra\\Salvati, Mat\'ias Dami\'an \\ \\ \\ 
+        } 
+        \text{Laboratorio de Electr\'onica - 2019}
+    }
+    \pagenumbering{arabic}
+
+    \maketitle
+    \newpage
+
+    % Crear indice del informe
+    \tableofcontents
+
+    % Incluyendo los ejercicios realizados
+  
+    \newpage
+    \input{./ej1.tex}
+    \input{./ej2.tex}
+    \input{./ej3.tex}
+    \input{./ej4.tex}
+    \input{./ej5.tex}
+    \input{./ej6.tex}
+    \input{./ej7.tex}
+    \input{./ej8.tex}
+\end{document}

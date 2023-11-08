@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="stop_button">
+    <file>../resources/stop.png</file>
+  </qresource>
+  <qresource prefix="reset_button">
+    <file>../resources/reset.png</file>
+  </qresource>
+  <qresource prefix="play_button">
+    <file>../resources/start.png</file>
+  </qresource>
+  <qresource prefix="excel_button">
+    <file>../resources/Excel-icon.png</file>
+    <file>../resources/Excel-2-icon.png</file>
+  </qresource>
+</RCC>

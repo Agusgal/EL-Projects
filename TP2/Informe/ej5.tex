@@ -1,0 +1,44 @@
+\myexternaldocument{ej2}
+\myexternaldocument{ej4}
+
+\section{Medici\'on de factor de calidad}
+\subsection{Filtro Pasabajos}
+\label{sec:FPB}
+Se puede observar en la Figura \ref{eq:Trans_PB} que, al reemplazar en la tranferencia a $s$ por $j\omega _0$ se obtiene que $H(s) = \frac{-j}{2\xi} = -j\cdot Q $. Por lo tanto, al calcular el m\'odulo de la trasferencia se puede conocer un valor para el $Q$ del circuito.
+
+
+En este caso, para obtener un valor para la frecuencia de corte se selecciona, de las mediciones del la variaci\'on de fase en funci\'on de la frecuencia en la Figura \ref{fig:respuesta_frecuencia_pasabajos}, el valor que genera una diferencia de fase de $-90^{\circ}$. Ese punto se corresponde con una frecuencia de $48.9KHz$ y para esa frecuencia el modulo de la trasferencia es de $0.874dB$. 
+Se calcula luego, como se muestra en \ref{eq:calc_q_PB}, un valor para $Q$ pasando ese valor a veces.
+\begin{equation}
+    Q = 10^{\frac{|H(S)|_{dB}}{20}}
+    \label{eq:calc_q_PB}
+\end{equation}
+Se obtiene para este circuito que $Q = 1.105$. Al compararlo con el valor te\'orico calculado como $Q = \frac{1}{2 \cdot \xi} = 1.25$ se observa un error del 11\%, que se encuentra dentro de lo esperado.
+
+\subsection{Filtro Pasaaltos} 
+
+Para este circuito se vuelve a aplicar el m\'etodo utilizado en la Secci\'on \ref{sec:FPB}.
+Se reemplaza en \ref{eq:trans_PA} y se obtiene un valor para $Q$ reemplazando la frecuencia de corte del circuito de $f_0 = 46.2KHz$ en \ref{eq:calc_q_PB}.
+Se obtiene para este circuito que $Q = 1.04$. Al compararlo con el valor te\'orico calculado como $Q = \frac{1}{2 \cdot \xi} = 1.25$ se observa un error del 17\%, que nuevamente se encuentra dentro de lo esperado.
+
+
+\subsection{Filtro Pasabanda}
+\label{sec:FPBa}
+Se sabe que para un filtro pasabanda se puede calcular el $Q$ como se ve en \ref{eq:Q_formula}
+
+\begin{equation}
+    Q = \frac{\omega_0}{\Delta \omega}
+    \label{eq:Q_formula}
+\end{equation}
+
+Adem\'as, es posible conocer el ancho de banda al medir los valores de frecuencia para los cuales la transferencia del sistema baja 3dB respecto de la banda pasante. Luego el valor absoluto de la resta de estas es el ancho de banda $\Delta \omega$. Para la frecuencia de corte nuevamente se observa la fase siguiendo el mismo procedimiento que los casos anteriores.
+
+Se obtiene, al reemplazar en \ref{eq:Q_formula} el valor de la transferencia en la frecuencia de corte y del ancho de banda, $f_0 = 48Khz$ y $\Delta f_0 = 20KHz$ respectivamente, y sabiendo que $\omega = 2\pi \cdot f$, se obtiene que $Q = 2.25$. Al compararlo con el valor te\'orico calculado como $Q = \frac{1}{2 \cdot \xi} = 1.25$ se observa un error muy grande, esto se debe a que no se ajusto el 
+$\xi$ como en las secciones anteriores, sino que se utiliz\'o una resistencia de $120\Omega$ y adem\'as, para este caso, se realizaron las mediciones antes del buffer. Por lo tanto, esta medici\'on no es correcta y el resultado no tiene sentido.  
+
+\subsection{Filtro Rechazabanda}
+
+Para este circuito se vuelve a aplicar el m\'etodo utilizado en la Secci\'on \ref{sec:FPBa}.
+Se reemplaza en \ref{eq:Q_formula} el valor medido para la frecuencia de corte y el ancho de banda y se obtiene un valor para $Q = 1.04$.
+ Al compararlo con el valor te\'orico calculado como $Q = \frac{1}{2 \cdot \xi} = 1.25$ se observa un error del 17\%. Sin embargo en estas mediciones tampoco se tuvo en cuenta la correcci\'on del $\xi$. A pesar de ello, los resultados se ajustan al te\'orico correctamente. 
+

@@ -1,0 +1,29 @@
+\babel@toc {spanish}{}
+\contentsline {section}{1. Medici\'on de distorsi\'on arm\'onica}{3}{section*.2}% 
+\contentsline {subsection}{Mediciones}{3}{section*.3}% 
+\contentsline {subsection}{An\'alisis de resultados}{4}{section*.4}% 
+\contentsline {subsection}{Conclusiones}{5}{section*.5}% 
+\contentsline {section}{2. Medici\'on de una se\~nal cuadrada}{5}{section*.6}% 
+\contentsline {subsection}{An\'alisis te\'orico}{5}{section*.7}% 
+\contentsline {subsubsection}{Diagrama espectral de se\~nales}{5}{section*.8}% 
+\contentsline {paragraph}{Se\~nal tren de pulsos:}{5}{section*.9}% 
+\contentsline {paragraph}{Se\~nal triangular de simetr\'ia $50\%$}{6}{section*.10}% 
+\contentsline {subsubsection}{Simulaci\'on del espectro de se\~nales}{7}{section*.11}% 
+\contentsline {subsection}{Mediciones}{8}{section*.12}% 
+\contentsline {subsection}{An\'alisis de los resultados}{9}{section*.13}% 
+\contentsline {section}{3. Modulaci\'on de se\~nal con AM}{10}{section*.14}% 
+\contentsline {subsection}{Mediciones}{10}{section*.15}% 
+\contentsline {subsection}{An\'alisis de los resultados}{13}{section*.16}% 
+\contentsline {section}{4. Modulaci\'on de se\~nal con FM}{14}{section*.17}% 
+\contentsline {subsection}{Mediciones}{14}{section*.18}% 
+\contentsline {subsection}{An\'alisis de los resultados}{16}{section*.19}% 
+\contentsline {section}{5. Espectro de radiofrecuencias de Argentina}{16}{section*.20}% 
+\contentsline {section}{6. Espectro electromagn\'etico de FM}{16}{section*.21}% 
+\contentsline {section}{7. Se\~nal de televisi\'on en Argentina}{17}{section*.22}% 
+\contentsline {section}{8. Medici\'on de se\~nales sinc y tren de pulsos}{18}{section*.23}% 
+\contentsline {subsection}{An\'alisis te\'orico}{18}{section*.24}% 
+\contentsline {subsubsection}{Diagramas espectrales}{18}{section*.25}% 
+\contentsline {paragraph}{Se\~nal sinc:}{18}{section*.26}% 
+\contentsline {paragraph}{Se\~nal tren de deltas de Dirac:}{19}{section*.27}% 
+\contentsline {subsection}{Mediciones}{20}{section*.28}% 
+\contentsline {subsection}{An\'alisis de los resultados}{20}{section*.29}% 

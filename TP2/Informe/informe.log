@@ -1,0 +1,1214 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.20)  20 SEP 2019 16:38
+entering extended mode
+**./informe.tex
+(informe.tex
+LaTeX2e <2018-12-01>
+(preamble.tex
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/07/19 3.33 The Babel package
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\span
+ish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks17
+\float@box=\box27
+\@float@everytoks=\toks18
+\@floatcapt=\box28
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen106
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks21
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks22
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks23
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/steinmetz\steinmet
+z.sty"
+Package: steinmetz 2009/06/14 v1.0 Steinmetz symbol for electrotechnics
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\pict2e.sty"
+Package: pict2e 2019/08/20 v0.3c Improved picture commands (HjG,RN,JT)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\pict2e.cfg"
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\p2e-pdftex.
+def"
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks25
+\@arclen=\dimen115
+\@arcrad=\dimen116
+\@tempdimd=\dimen117
+)
+\stm@phasebox=\box31
+\stm@phasedp=\skip46
+\stm@phaseht=\skip47
+\stm@phasetot=\skip48
+\stm@phasewd=\skip49
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csvsimple\csvsimpl
+e.sty"
+Package: csvsimple 2019/04/09 version 1.21 LaTeX CSV file processing
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfr
+cs.sty"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen118
+\pgfutil@tempdimb=\dimen119
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common-lists.tex"))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-latex.def"
+\pgfutil@abb=\box32
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+frcs.code.tex"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision
+.tex")
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfk
+eys.sty"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks29
+)))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
+Package: etoolbox 2019/09/09 v2.5g e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count104
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.sty
+"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\csv@file=\read1
+\c@csvinputline=\count105
+\c@csvrow=\count106
+\c@csvcol=\count107
+\csv@out=\write3
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen120
+\Gm@wd@mp=\dimen121
+\Gm@odd@mp=\dimen122
+\Gm@even@mp=\dimen123
+\Gm@layoutwidth=\dimen124
+\Gm@layoutheight=\dimen125
+\Gm@layouthoffset=\dimen126
+\Gm@layoutvoffset=\dimen127
+\Gm@dimlist=\toks30
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+sty"
+Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
+ty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen128
+\Hy@linkcounter=\count111
+\Hy@pagecounter=\count112
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+f"
+File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count113
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
+cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4550.
+Package hyperref Info: Link nesting OFF on input line 4555.
+Package hyperref Info: Hyper index ON on input line 4558.
+Package hyperref Info: Plain pages OFF on input line 4565.
+Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4803.
+\c@Hy@tempcnt=\count114
+ ("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5156.
+\XeTeXLinkMargin=\dimen129
+\Fld@menulength=\count115
+\Field@Width=\dimen130
+\Fld@charsize=\dimen131
+Package hyperref Info: Hyper figures OFF on input line 6411.
+Package hyperref Info: Link nesting OFF on input line 6416.
+Package hyperref Info: Hyper index ON on input line 6419.
+Package hyperref Info: backreferencing OFF on input line 6426.
+Package hyperref Info: Link coloring OFF on input line 6431.
+Package hyperref Info: Link coloring with OCG OFF on input line 6436.
+Package hyperref Info: PDF/A mode OFF on input line 6441.
+LaTeX Info: Redefining \ref on input line 6481.
+LaTeX Info: Redefining \pageref on input line 6485.
+\Hy@abspage=\count116
+\c@Item=\count117
+\c@Hfootnote=\count118
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
+\Fld@listcount=\count119
+\c@bookmark@seq@number=\count120
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
+check.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip50
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xr.sty"
+Package: xr 2019/01/05 v5.04 eXternal References (DPC)
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/todonotes\todonote
+s.sty"
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count121
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\
+tikz.sty"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+.sty"
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+core.sty"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pg
+fsys.sty"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys.code.tex"
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex")
+\pgf@x=\dimen132
+\pgf@y=\dimen133
+\pgf@xa=\dimen134
+\pgf@ya=\dimen135
+\pgf@xb=\dimen136
+\pgf@yb=\dimen137
+\pgf@xc=\dimen138
+\pgf@yc=\dimen139
+\pgf@xd=\dimen140
+\pgf@yd=\dimen141
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count122
+\c@pgf@countb=\count123
+\c@pgf@countc=\count124
+\c@pgf@countd=\count125
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count126
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgf.cfg"
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count127
+\pgfsyssoftpath@bigbuffer@items=\count128
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcore.code.tex"
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+calc.code.tex"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+util.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen142
+\pgfmath@count=\count129
+\pgfmath@box=\box33
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.code.tex"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.basic.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.random.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.base.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.round.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.misc.code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count130
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.
+code.tex")
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen143
+\pgf@picmaxx=\dimen144
+\pgf@picminy=\dimen145
+\pgf@picmaxy=\dimen146
+\pgf@pathminx=\dimen147
+\pgf@pathmaxx=\dimen148
+\pgf@pathminy=\dimen149
+\pgf@pathmaxy=\dimen150
+\pgf@xx=\dimen151
+\pgf@xy=\dimen152
+\pgf@yx=\dimen153
+\pgf@yy=\dimen154
+\pgf@zx=\dimen155
+\pgf@zy=\dimen156
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen157
+\pgf@path@lasty=\dimen158
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen159
+\pgf@shorten@start@additional=\dimen160
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box34
+\pgf@hbox=\box35
+\pgf@layerbox@main=\box36
+\pgf@picture@serial@count=\count131
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen161
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen162
+\pgf@pt@y=\dimen163
+\pgf@pt@temp=\dimen164
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen165
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen166
+\pgf@sys@shading@range@num=\count132
+\pgf@shadingcount=\count133
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box37
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box38
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen167
+\pgf@nodesepend=\dimen168
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgff
+or.sty"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.s
+ty"
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex"))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+ffor.code.tex"
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex")
+\pgffor@iter=\dimen169
+\pgffor@skip=\dimen170
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz\tikz.code.tex"
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
+flibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count134
+\pgfplotmarksize=\dimen171
+)
+\tikz@lastx=\dimen172
+\tikz@lasty=\dimen173
+\tikz@lastxsaved=\dimen174
+\tikz@lastysaved=\dimen175
+\tikz@lastmovetox=\dimen176
+\tikz@lastmovetoy=\dimen177
+\tikzleveldistance=\dimen178
+\tikzsiblingdistance=\dimen179
+\tikz@figbox=\box39
+\tikz@figbox@bg=\box40
+\tikz@tempbox=\box41
+\tikz@tempbox@bg=\box42
+\tikztreelevel=\count135
+\tikznumberofchildren=\count136
+\tikznumberofcurrentchild=\count137
+\tikz@fig@count=\count138
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+odulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count139
+\pgfmatrixcurrentcolumn=\count140
+\pgf@matrix@numberofcolumns=\count141
+)
+\tikz@expandcount=\count142
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
+flibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count143
+\calc@Bcount=\count144
+\calc@Adimen=\dimen180
+\calc@Bdimen=\dimen181
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count145
+\calc@Cskip=\skip53
+)
+\c@@todonotes@numberoftodonotes=\count146
+)
+(informe.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count147
+\scratchdimen=\dimen182
+\scratchbox=\box43
+\nofMPsegments=\count148
+\nofMParguments=\count149
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count150
+\MPscratchDim=\dimen183
+\MPnumerator=\count151
+\makeMPintoPDFobject=\count152
+\everyMPtoPDFconversion=\toks42
+)
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=672.05412pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-1.1381pt
+* \headheight=13.65732pt
+* \headsep=17.07164pt
+* \topskip=10.0pt
+* \footskip=19.91692pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box44
+Package hyperref Info: Link coloring ON on input line 5.
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Joaco\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
+estring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count153
+)
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+ (informe.out) (informe.out)
+\@outlinefile=\write5
+\openout5 = `informe.out'.
+
+ [1
+
+{C:/Users/Joaco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (informe.to
+c
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write6
+\openout6 = `informe.toc'.
+
+ [2] (ej1.tex
+<Recursos/capacidad_medida.png, id=203, 921.4425pt x 685.8423pt>
+File: Recursos/capacidad_medida.png Graphic file (type png)
+<use Recursos/capacidad_medida.png>
+Package pdftex.def Info: Recursos/capacidad_medida.png  used on input line 65.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/perdidas_medida_cap.png, id=205, 921.4425pt x 685.8423pt>
+File: Recursos/perdidas_medida_cap.png Graphic file (type png)
+<use Recursos/perdidas_medida_cap.png>
+Package pdftex.def Info: Recursos/perdidas_medida_cap.png  used on input line 6
+5.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/admitancia_medida_cap.png, id=206, 921.4425pt x 685.8423pt>
+File: Recursos/admitancia_medida_cap.png Graphic file (type png)
+<use Recursos/admitancia_medida_cap.png>
+Package pdftex.def Info: Recursos/admitancia_medida_cap.png  used on input line
+ 65.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/fase_medida_cap.png, id=207, 921.4425pt x 685.8423pt>
+File: Recursos/fase_medida_cap.png Graphic file (type png)
+<use Recursos/fase_medida_cap.png>
+Package pdftex.def Info: Recursos/fase_medida_cap.png  used on input line 65.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+ [3]
+<Recursos/Modelo_cap.png, id=217, 349.305pt x 66.84975pt>
+File: Recursos/Modelo_cap.png Graphic file (type png)
+<use Recursos/Modelo_cap.png>
+Package pdftex.def Info: Recursos/Modelo_cap.png  used on input line 78.
+(pdftex.def)             Requested size: 349.30414pt x 66.84956pt.
+<Recursos/comp_admitancia_cap.png, id=221, 921.4425pt x 685.8423pt>
+File: Recursos/comp_admitancia_cap.png Graphic file (type png)
+<use Recursos/comp_admitancia_cap.png>
+Package pdftex.def Info: Recursos/comp_admitancia_cap.png  used on input line 9
+9.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/comp_fase_cap.png, id=222, 921.4425pt x 685.8423pt>
+File: Recursos/comp_fase_cap.png Graphic file (type png)
+<use Recursos/comp_fase_cap.png>
+Package pdftex.def Info: Recursos/comp_fase_cap.png  used on input line 99.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+ [4 <./Recursos/capacidad_medida.png> <./Recursos/perdidas_medida_cap.png> <./R
+ecursos/admitancia_medida_cap.png> <./Recursos/fase_medida_cap.png> <./Recursos
+/Modelo_cap.png>]
+<Recursos/inductancia_medida_ind.png, id=238, 921.4425pt x 685.8423pt>
+File: Recursos/inductancia_medida_ind.png Graphic file (type png)
+<use Recursos/inductancia_medida_ind.png>
+Package pdftex.def Info: Recursos/inductancia_medida_ind.png  used on input lin
+e 168.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/calidad_medida_ind.png, id=239, 921.4425pt x 685.8423pt>
+File: Recursos/calidad_medida_ind.png Graphic file (type png)
+<use Recursos/calidad_medida_ind.png>
+Package pdftex.def Info: Recursos/calidad_medida_ind.png  used on input line 16
+8.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/impedancia_medida_ind.png, id=240, 921.4425pt x 685.8423pt>
+File: Recursos/impedancia_medida_ind.png Graphic file (type png)
+<use Recursos/impedancia_medida_ind.png>
+Package pdftex.def Info: Recursos/impedancia_medida_ind.png  used on input line
+ 168.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/fase_medida_ind.png, id=241, 921.4425pt x 685.8423pt>
+File: Recursos/fase_medida_ind.png Graphic file (type png)
+<use Recursos/fase_medida_ind.png>
+Package pdftex.def Info: Recursos/fase_medida_ind.png  used on input line 168.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+ [5 <./Recursos/comp_admitancia_cap.png> <./Recursos/comp_fase_cap.png>]
+[6]
+<Recursos/Modelo_ind.png, id=255, 402.303pt x 269.20575pt>
+File: Recursos/Modelo_ind.png Graphic file (type png)
+<use Recursos/Modelo_ind.png>
+Package pdftex.def Info: Recursos/Modelo_ind.png  used on input line 180.
+(pdftex.def)             Requested size: 402.302pt x 269.20508pt.
+ [7 <./Recursos/inductancia_medida_ind.png> <./Recursos/calidad_medida_ind.png>
+ <./Recursos/impedancia_medida_ind.png> <./Recursos/fase_medida_ind.png> <./Rec
+ursos/Modelo_ind.png>]
+<Recursos/comp_impedancia_ind.png, id=268, 921.4425pt x 685.8423pt>
+File: Recursos/comp_impedancia_ind.png Graphic file (type png)
+<use Recursos/comp_impedancia_ind.png>
+Package pdftex.def Info: Recursos/comp_impedancia_ind.png  used on input line 1
+96.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+<Recursos/comp_fase_ind.png, id=269, 921.4425pt x 685.8423pt>
+File: Recursos/comp_fase_ind.png Graphic file (type png)
+<use Recursos/comp_fase_ind.png>
+Package pdftex.def Info: Recursos/comp_fase_ind.png  used on input line 196.
+(pdftex.def)             Requested size: 921.44026pt x 685.84062pt.
+) [8 <./Recursos/comp_impedancia_ind.png> <./Recursos/comp_fase_ind.png>] (ej2.
+tex
+<Recursos/circuito_pasabajos.png, id=278, 453.695pt x 252.945pt>
+File: Recursos/circuito_pasabajos.png Graphic file (type png)
+<use Recursos/circuito_pasabajos.png>
+Package pdftex.def Info: Recursos/circuito_pasabajos.png  used on input line 13
+.
+(pdftex.def)             Requested size: 226.84694pt x 126.47218pt.
+ [9 <./Recursos/circuito_pasabajos.png>]
+<Recursos/bode_teorico_pasabajos_modulo.png, id=292, 534.0753pt x 478.4274pt>
+File: Recursos/bode_teorico_pasabajos_modulo.png Graphic file (type png)
+<use Recursos/bode_teorico_pasabajos_modulo.png>
+Package pdftex.def Info: Recursos/bode_teorico_pasabajos_modulo.png  used on in
+put line 64.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+<Recursos/bode_teorico_pasabajos_fase.png, id=293, 534.0753pt x 478.4274pt>
+File: Recursos/bode_teorico_pasabajos_fase.png Graphic file (type png)
+<use Recursos/bode_teorico_pasabajos_fase.png>
+Package pdftex.def Info: Recursos/bode_teorico_pasabajos_fase.png  used on inpu
+t line 65.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+ [10 <./Recursos/bode_teorico_pasabajos_modulo.png> <./Recursos/bode_teorico_pa
+sabajos_fase.png>] [11]
+<../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_9.png, id=315, 102
+7.84pt x 825.0825pt>
+File: ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_9.png Graphic
+ file (type png)
+<use ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_9.png>
+Package pdftex.def Info: ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/
+scope_9.png  used on input line 199.
+(pdftex.def)             Requested size: 205.56436pt x 165.01357pt.
+<../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_10.png, id=316, 10
+27.84pt x 825.0825pt>
+File: ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_10.png Graphi
+c file (type png)
+<use ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_10.png>
+Package pdftex.def Info: ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/
+scope_10.png  used on input line 200.
+(pdftex.def)             Requested size: 205.56436pt x 165.01357pt.
+<../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_11.png, id=317, 10
+27.84pt x 825.0825pt>
+File: ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_11.png Graphi
+c file (type png)
+<use ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_11.png>
+Package pdftex.def Info: ../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/
+scope_11.png  used on input line 202.
+(pdftex.def)             Requested size: 205.56436pt x 165.01357pt.
+ [12]
+<Recursos/pasabajos_plottool_modulo.png, id=323, 534.0753pt x 478.4274pt>
+File: Recursos/pasabajos_plottool_modulo.png Graphic file (type png)
+<use Recursos/pasabajos_plottool_modulo.png>
+Package pdftex.def Info: Recursos/pasabajos_plottool_modulo.png  used on input 
+line 224.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+<Recursos/pasabajos_plottool_fase.png, id=324, 534.0753pt x 478.4274pt>
+File: Recursos/pasabajos_plottool_fase.png Graphic file (type png)
+<use Recursos/pasabajos_plottool_fase.png>
+Package pdftex.def Info: Recursos/pasabajos_plottool_fase.png  used on input li
+ne 225.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+ [13 <../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_9.png (PNG co
+py)> <../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_10.png (PNG c
+opy)> <../Mediciones/Osciloscopio/Pasabajos_respuesta_caso_0/scope_11.png (PNG 
+copy)>]) [14 <./Recursos/pasabajos_plottool_modulo.png> <./Recursos/pasabajos_p
+lottool_fase.png>] (ej4.tex
+<Recursos/circuito_pasabanda.png, id=339, 443.6575pt x 278.03876pt>
+File: Recursos/circuito_pasabanda.png Graphic file (type png)
+<use Recursos/circuito_pasabanda.png>
+Package pdftex.def Info: Recursos/circuito_pasabanda.png  used on input line 10
+.
+(pdftex.def)             Requested size: 221.8282pt x 139.01903pt.
+<Recursos/bode_teorico_pasabanda_modulo.png, id=340, 534.0753pt x 478.4274pt>
+File: Recursos/bode_teorico_pasabanda_modulo.png Graphic file (type png)
+<use Recursos/bode_teorico_pasabanda_modulo.png>
+Package pdftex.def Info: Recursos/bode_teorico_pasabanda_modulo.png  used on in
+put line 39.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+<Recursos/bode_teorico_pasabanda_fase.png, id=341, 534.0753pt x 478.4274pt>
+File: Recursos/bode_teorico_pasabanda_fase.png Graphic file (type png)
+<use Recursos/bode_teorico_pasabanda_fase.png>
+Package pdftex.def Info: Recursos/bode_teorico_pasabanda_fase.png  used on inpu
+t line 40.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+ [15 <./Recursos/circuito_pasabanda.png>] [16 <./Recursos/bode_teorico_pasaband
+a_modulo.png> <./Recursos/bode_teorico_pasabanda_fase.png>]
+<../Mediciones/Osciloscopio/Rechazabanda_respuesta_escalon/scope_5.png, id=357,
+ 1027.84pt x 825.0825pt>
+File: ../Mediciones/Osciloscopio/Rechazabanda_respuesta_escalon/scope_5.png Gra
+phic file (type png)
+<use ../Mediciones/Osciloscopio/Rechazabanda_respuesta_escalon/scope_5.png>
+Package pdftex.def Info: ../Mediciones/Osciloscopio/Rechazabanda_respuesta_esca
+lon/scope_5.png  used on input line 106.
+(pdftex.def)             Requested size: 308.35437pt x 247.52666pt.
+<Recursos/ej4/pasabanda_amplitud.png, id=359, 921.4425pt x 685.8423pt>
+File: Recursos/ej4/pasabanda_amplitud.png Graphic file (type png)
+<use Recursos/ej4/pasabanda_amplitud.png>
+Package pdftex.def Info: Recursos/ej4/pasabanda_amplitud.png  used on input lin
+e 117.
+(pdftex.def)             Requested size: 276.43488pt x 205.75427pt.
+<Recursos/ej4/pasabanda_fase.png, id=360, 921.4425pt x 685.8423pt>
+File: Recursos/ej4/pasabanda_fase.png Graphic file (type png)
+<use Recursos/ej4/pasabanda_fase.png>
+Package pdftex.def Info: Recursos/ej4/pasabanda_fase.png  used on input line 11
+8.
+(pdftex.def)             Requested size: 276.43488pt x 205.75427pt.
+
+Overfull \hbox (112.95897pt too wide) in paragraph at lines 116--120
+ [][] 
+ []
+
+[17 <../Mediciones/Osciloscopio/Rechazabanda_respuesta_escalon/scope_5.png (PNG
+ copy)> <./Recursos/ej4/pasabanda_amplitud.png> <./Recursos/ej4/pasabanda_fase.
+png>]
+<Recursos/circuito_pasaaltos.png, id=368, 410.53375pt x 227.85126pt>
+File: Recursos/circuito_pasaaltos.png Graphic file (type png)
+<use Recursos/circuito_pasaaltos.png>
+Package pdftex.def Info: Recursos/circuito_pasaaltos.png  used on input line 13
+2.
+(pdftex.def)             Requested size: 205.26637pt x 113.92534pt.
+<Recursos/bode_teorico_pasaaltos_modulo.png, id=369, 534.0753pt x 478.4274pt>
+File: Recursos/bode_teorico_pasaaltos_modulo.png Graphic file (type png)
+<use Recursos/bode_teorico_pasaaltos_modulo.png>
+Package pdftex.def Info: Recursos/bode_teorico_pasaaltos_modulo.png  used on in
+put line 155.
+(pdftex.def)             Requested size: 160.22382pt x 143.52931pt.
+<Recursos/bode_teorico_pasaaltos_fase.png, id=370, 534.0753pt x 478.4274pt>
+File: Recursos/bode_teorico_pasaaltos_fase.png Graphic file (type png)
+<use Recursos/bode_teorico_pasaaltos_fase.png>
+Package pdftex.def Info: Recursos/bode_teorico_pasaaltos_fase.png  used on inpu
+t line 156.
+(pdftex.def)             Requested size: 160.22382pt x 143.52931pt.
+ [18 <./Recursos/circuito_pasaaltos.png> <./Recursos/bode_teorico_pasaaltos_mod
+ulo.png> <./Recursos/bode_teorico_pasaaltos_fase.png>]
+<../Mediciones/Osciloscopio/Pasaaltos_respuesta_escalon/scope_4.png, id=381, 10
+27.84pt x 825.0825pt>
+File: ../Mediciones/Osciloscopio/Pasaaltos_respuesta_escalon/scope_4.png Graphi
+c file (type png)
+<use ../Mediciones/Osciloscopio/Pasaaltos_respuesta_escalon/scope_4.png>
+Package pdftex.def Info: ../Mediciones/Osciloscopio/Pasaaltos_respuesta_escalon
+/scope_4.png  used on input line 207.
+(pdftex.def)             Requested size: 308.35437pt x 247.52666pt.
+ [19]
+<Recursos/ej4/pasaaltos_amplitud.png, id=389, 921.4425pt x 685.8423pt>
+File: Recursos/ej4/pasaaltos_amplitud.png Graphic file (type png)
+<use Recursos/ej4/pasaaltos_amplitud.png>
+Package pdftex.def Info: Recursos/ej4/pasaaltos_amplitud.png  used on input lin
+e 219.
+(pdftex.def)             Requested size: 276.43488pt x 205.75427pt.
+<Recursos/ej4/pasaaltos_fase.png, id=390, 921.4425pt x 685.8423pt>
+File: Recursos/ej4/pasaaltos_fase.png Graphic file (type png)
+<use Recursos/ej4/pasaaltos_fase.png>
+Package pdftex.def Info: Recursos/ej4/pasaaltos_fase.png  used on input line 22
+0.
+(pdftex.def)             Requested size: 276.43488pt x 205.75427pt.
+
+Overfull \hbox (112.95897pt too wide) in paragraph at lines 218--222
+ [][] 
+ []
+
+[20 <../Mediciones/Osciloscopio/Pasaaltos_respuesta_escalon/scope_4.png (PNG co
+py)> <./Recursos/ej4/pasaaltos_amplitud.png> <./Recursos/ej4/pasaaltos_fase.png
+>]
+<Recursos/circuito_notch.png, id=398, 432.61626pt x 283.0575pt>
+File: Recursos/circuito_notch.png Graphic file (type png)
+<use Recursos/circuito_notch.png>
+Package pdftex.def Info: Recursos/circuito_notch.png  used on input line 232.
+(pdftex.def)             Requested size: 216.3076pt x 141.5284pt.
+<Recursos/bode_teorico_rechazabanda_modulo.png, id=399, 534.0753pt x 478.4274pt
+>
+File: Recursos/bode_teorico_rechazabanda_modulo.png Graphic file (type png)
+<use Recursos/bode_teorico_rechazabanda_modulo.png>
+Package pdftex.def Info: Recursos/bode_teorico_rechazabanda_modulo.png  used on
+ input line 253.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+<Recursos/bode_teorico_rechazabanda_fase.png, id=400, 534.0753pt x 478.4274pt>
+File: Recursos/bode_teorico_rechazabanda_fase.png Graphic file (type png)
+<use Recursos/bode_teorico_rechazabanda_fase.png>
+Package pdftex.def Info: Recursos/bode_teorico_rechazabanda_fase.png  used on i
+nput line 254.
+(pdftex.def)             Requested size: 213.62633pt x 191.36757pt.
+ [21 <./Recursos/circuito_notch.png> <./Recursos/bode_teorico_rechazabanda_modu
+lo.png> <./Recursos/bode_teorico_rechazabanda_fase.png>]
+File: ../Mediciones/Osciloscopio/Rechazabanda_respuesta_escalon/scope_5.png Gra
+phic file (type png)
+<use ../Mediciones/Osciloscopio/Rechazabanda_respuesta_escalon/scope_5.png>
+Package pdftex.def Info: ../Mediciones/Osciloscopio/Rechazabanda_respuesta_esca
+lon/scope_5.png  used on input line 300.
+(pdftex.def)             Requested size: 308.35437pt x 247.52666pt.
+ [22]
+<./Recursos/ej4/rechazabanda_amplitud.png, id=419, 921.4425pt x 685.8423pt>
+File: ./Recursos/ej4/rechazabanda_amplitud.png Graphic file (type png)
+<use ./Recursos/ej4/rechazabanda_amplitud.png>
+Package pdftex.def Info: ./Recursos/ej4/rechazabanda_amplitud.png  used on inpu
+t line 322.
+(pdftex.def)             Requested size: 276.43488pt x 205.75427pt.
+<./Recursos/ej4/rechazabanda_fase.png, id=420, 921.4425pt x 685.8423pt>
+File: ./Recursos/ej4/rechazabanda_fase.png Graphic file (type png)
+<use ./Recursos/ej4/rechazabanda_fase.png>
+Package pdftex.def Info: ./Recursos/ej4/rechazabanda_fase.png  used on input li
+ne 328.
+(pdftex.def)             Requested size: 276.43488pt x 205.75427pt.
+) [23 <./Recursos/ej4/rechazabanda_amplitud.png> <./Recursos/ej4/rechazabanda_f
+ase.png>]
+(ej5.tex
+
+Package xr Warning: 
+No file ej2.aux
+LABELS NOT IMPORTED.
+ on input line 1.
+
+(ej2.tex)
+(ej2.aux)
+No file ej2.aux.
+
+Package xr Warning: 
+No file ej4.aux
+LABELS NOT IMPORTED.
+ on input line 2.
+
+(ej4.tex)
+(ej4.aux)
+No file ej4.aux.
+) [24]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+ (informe.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Package rerunfilecheck Info: File `informe.out' has not changed.
+(rerunfilecheck)             Checksum: 29638FBB3E0159141CBB2EFF278A5E48;2372.
+ ) 
+Here is how much of TeX's memory you used:
+ 19281 strings out of 492895
+ 368806 string characters out of 3123735
+ 463334 words of memory out of 3000000
+ 22688 multiletter control sequences out of 15000+200000
+ 11301 words of font info for 41 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,16n,81p,1240b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Joaco/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Joaco/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/J
+oaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi7.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Joaco/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Joaco/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Joaco/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/User
+s/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy5.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb>
+Output written on informe.pdf (24 pages, 14710287 bytes).
+PDF statistics:
+ 515 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
+ 552 words of extra memory for PDF output out of 10000 (max. 10000000)
+
